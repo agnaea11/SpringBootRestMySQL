@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootRestMySqlApplication<spring-boot-restapi-mysql>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.grokonez.spring.restapi.mysql.SpringBootRestMySqlApplication",
+            "projectName": "spring-boot-restapi-mysql",
+            "args": ""
+        }
+    ]
+}
